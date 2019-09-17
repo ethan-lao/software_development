@@ -1,0 +1,625 @@
+Days Inn	3105 North IH 35	hotel	-97.722778318086 	30.288767614292
+UpCurve Cloud	2815 Manor Road	technology	-97.711210057703 	30.28515986181
+City of Georgetown - Economic Development Department	300 Industrial Avenue	government	-97.76165233319 	30.218867371562
+DoubleTree Suites by Hilton Hotel	303 West 15th Street	hotel	-97.742554742774 	30.277501962951
+Continental Collision-Austin	7720 North Lamar Boulevard	auto repair	-97.714557334244 	30.346320078504
+H-E-B	11521 North FM 620 Road	grocery store	-97.825895829215 	30.454660866175
+Stoner & Bouldin LLP	3708 Spicewood Springs Road	accounting	-97.749085513293 	30.36436327899
+HealthTronics	9825 Spectrum Drive	biomedical	-97.773733442528 	30.48003438142
+Lammes Candies	200 Parker Drive	bakery	-97.675382953996 	30.475190264528
+JPMorganChase	1000 East 41st Street	banking	-97.719654204682 	30.300469382886
+Lamb's Tire & Automotive Centers	7515 N FM 620 Road	auto repair	-97.850907244209 	30.408128179867
+Regions Bank	18643 FM 1431	banking	-97.923839342433 	30.493510692318
+Torchy's Tacos	4501 Springdale Road	restaurant	-97.681210821597 	30.28743750684
+Sheraton Austin Hotel	701 E. 11th St.	hotel	-97.734240780739 	30.270606252508
+Seton Northwest Hospital	11113 Research Blvd.	hospital	-97.743993078754 	30.406165023825
+Austin Detours	1800 E. 4th Street	recreation	-97.723968489445 	30.260203240333
+Wells Fargo Bank	3601 Far West Boulevard	banking	-97.755670485686 	30.354077467712
+Commercial IT Solutions	401 Congress Ave	technology	-97.743035585989 	30.266405826171
+Wells Fargo Bank	605 W 15th Street	banking	-97.745682266874 	30.278393008195
+International Biomedical, Inc.	8206 Cross Park Drive	biomedical	-97.668477289838 	30.331062753541
+Atchley & Associates, LLP	1005 La Posada Drive	accounting	-97.702861934247 	30.325055838885
+Residence Inn	4537 South IH 35 Road	hotel	-97.754841133163 	30.20847668729
+GTECH Corporation	5301 Riata Park	technology	-97.732348149541 	30.431824211066
+The Menagerie	1601 West 38th Street	jewelry	-97.750251557455 	30.308650923074
+Black Walnut Café	11101 Burnet Road	restaurant	-97.719444559353 	30.395457907914
+Luminex Corporation	12212 Technology Boulevard	biomedical	-97.760743299422 	30.433705662562
+St. David's Rehabilitation Hospital	1005 E. 32nd Street	hospital	-97.724772295221 	30.289512334108
+Henna Chevrolet L.P.	8805 North IH 35	auto	-97.691261227734 	30.351571842194
+Hotel Indigo & Holiday Inn Express	810 Red River	hotel	-97.736422571109 	30.269163694646
+Central National Bank	114 West 7th Street	banking	-97.743379585065 	30.269435378925
+Whole Foods Market, Inc.	550 Bowie Street	grocery store	-97.752797102338 	30.270813862845
+Austin Waldorf School	8700 South View Rd.	education	-97.913092014303 	30.230962539946
+Signature Flight Support	4321 Emma Browning Avenue	air travel	-97.663256707353 	30.186332152989
+Hyatt House	901 Neches Street	hotel	-97.73693048561 	30.269739416311
+Velocity Credit Union	9300 South IH 35	financial service	-97.789522778275 	30.165494506481
+Bank of America	5800 West Slaughter Lane	banking	-97.876752630902 	30.202604382389
+Cornerstone Hospital	4207 Burnet Road	hospital	-97.743443889042 	30.312127545914
+Truluck's Seafood, Steak and Crab House	10225 Research Boulevard	restaurant	-97.74471515991 	30.394606083313
+Taco Cabana	7409 N FM 620 RD	restaurant	-97.851698596199 	30.407140068104
+AT&T Executive Education and Conference Center	1900 University Avenue	hotel	-97.740136869788 	30.281551016594
+Apptronik, Inc.	10705 Metric Blvd	technology	-97.710982298451 	30.386701296782
+Wells Fargo Bank	9810 North Lamar Boulevard	banking	-97.694502814126 	30.368507873513
+Dell Children's Medical Center of Central Texas	4900 Mueller Blvd	hospital	-97.706219368785 	30.303505287728
+newchip	2015 South IH 35	financial service	-97.738310930311 	30.236635140348
+The Fairmont Hotel	101 Red River	hotel	-97.738634587111 	30.261992578577
+Wells Fargo Bank	3738 Bee Caves Boulevard	banking	-97.807450675707 	30.280645765037
+BBVA Compass	13497 North US 183 Hwy	banking	-97.789904311675 	30.449779469266
+PlainsCapital Bank	2705 Bee Caves Road	banking	-97.786657549818 	30.268766233583
+Office Depot	11066 Pecan Park Boulevard	office supplies	-97.801596474442 	30.470327273936
+Frost Bank	1206 West 38th Street	banking	-97.745155984975 	30.306620174007
+Brazos Resources, LLC	5000 Bee Caves Road	financial service	-97.817966472483 	30.289956105406
+BB&T	4220 West William Cannon Drive	banking	-97.837808339619 	30.222260689289
+Wells Fargo Bank	10900 Research Boulevard	banking	-97.746785083809 	30.401504470863
+Motogo	11405 Charred Oak Drive	transportation	-97.770662353362 	30.424319134799
+Lyft	1021 E 7th Street	transportation	-97.731517844232 	30.265561859084
+Paul Mitchell the School	9503 Research Boulevard	education	-97.742132271634 	30.386324868874
+Delaware North Companies	3600 Presidential Boulevard	transportation	-97.666884165253 	30.202014196472
+Seton Shoal Creek Hospital	3501 Mills Avenue	hospital	-97.748604238508 	30.306061766054
+UBEO Business Services	2112 Rutland Drive	office supplies	-97.716509771602 	30.381300931203
+Oak Forest RV Resort	8207 Canoga Avenue	camping	-97.634638594128 	30.284128425877
+Wells Fargo Bank	3105 Windsor Road	banking	-97.767716346968 	30.295982081357
+Red's Indoor Range	6200 West US 290 Hwy	recreation	-97.856528040477 	30.235811593822
+JW Marriott	110 East 2nd Street	hotel	-97.743409391263 	30.264391574404
+Wells Fargo Bank	2237 E Riverside Drive	banking	-97.72624566743 	30.238214909288
+Frost Bank	3525 Far West Boulevard	banking	-97.753217555611 	30.352413686484
+Renaissance Austin Hotel	9721 Arboretum Blvd.	hotel	-97.749860912538 	30.392429947782
+Office Depot	5400 Brodie Lane	office supplies	-97.820429787169 	30.230711994898
+Lamb's Tire & Automotive Centers	10204 Lake Creek Parkway	auto repair	-97.792226802811 	30.462989307356
+Westwood High School	12400 Mellow Meadow Ave	education	-97.798056169571 	30.456752789568
+H-E-B	6900 Brodie Lane	grocery store	-97.829788667811 	30.215778496586
+Pete's Dueling Piano Bar	421 East 6th Street	recreation	-97.73861103088 	30.266629814508
+Broken Spoke	3201 South Lamar Boulevard	theater	-97.785306342184 	30.241001855844
+The Happy Lobster LLC	2717 South Lamar Boulevard	restaurant	-97.780591003625 	30.243400828112
+Courtyard by Marriott	7809 East Ben White Boulevard	hotel	-97.687964813677 	30.218307055893
+Bank of America	701 East Stassney	banking	-97.768877220461 	30.20037826009
+South Congress Hotel	1603 South Congress	hotel	-97.749996303119 	30.247442496246
+Bank of America	9830 North Lake Creek Parkway	banking	-97.790938869212 	30.471635570647
+Del Valle ISD	5301 Ross Road	education	-97.613402253667 	30.175994757062
+Alen Corp	2929 Longhorn Boulevard	retail	-97.727983266723 	30.380983128488
+Optique Eyewear	211 Walter Seaholm Drive	retail	-97.752716524967 	30.26752113042
+H-E-B	7112 Ed Bluestein	grocery store	-97.663802132366 	30.312564790043
+Whataburger	601 Barton Springs Road	restaurant	-97.750640323114 	30.258214790381
+III Forks	111 Lavaca Street	restaurant	-97.746681867556 	30.264335299674
+Freytag's Florist	2211 West Anderson Lane	retail	-97.729753028259 	30.355206889189
+Onion Creek Volkswagen	10812 South IH 35	auto	-97.795296765456 	30.144956020337
+BBVA Compass	7321 N FM 620 RD	banking	-97.852075213958 	30.406012270592
+Kerbey Lane Cafe	2111 Dickson Dr	restaurant	-97.781080584926 	30.245799299953
+Charles Maund Toyota	8400 Research Blvd	auto	-97.71656793249 	30.357573391427
+Wells Fargo Bank	5900 Airport Boulevard	banking	-97.715907479305 	30.323680866393
+Texas Coffee Traders	1400 East 4th Street	coffee shop	-97.728746565837 	30.262026362346
+Holiday Inn	20 North IH 35	hotel	-97.737146768126 	30.253707173672
+Autocraft Bodywerks	5411 Wasson Road	auto repair	-97.773547895973 	30.20557690076
+Wells Fargo Bank	3216 West Braker	banking	-97.725147127681 	30.392547541707
+Lamb's Tire & Automotive Centers	3300 South Lamar	auto repair	-97.785936868699 	30.241412951676
+Sleep Inn & Suites	8410 East US 290 HWY	hotel	-97.661342040678 	30.329530444062
+Studio 6	6603 North IH 35	hotel	-97.702971957324 	30.326834838415
+BB&T	6929 Airport Blvd	banking	-97.717593264816 	30.337620171995
+Wells Fargo Bank	11625 North FM 620 Road	banking	-97.8243313612 	30.45636000265
+H-E-B	6001 West Parmer Lane	grocery store	-97.742541015099 	30.441459018692
+BBVA Compass	1703 West 5th Street	banking	-97.765327246879 	30.274966690622
+H-E-B	9414 North Lamar Boulevard	grocery store	-97.697903838045 	30.36499680159
+Cooper's Old Time Pit Bar-B-Que	217 Congress Ave	restaurant	-97.743620729189 	30.264904939759
+Cowboy Harley-Davidson of Austin	10917 S. IH 35	auto	-97.793936841717 	30.142804867483
+Napa Flats Wood-fired Kitchen	8300 North FM 620 Road	restaurant	-97.847254234665 	30.421918544796
+ADESA Auto Auction	2108 Ferguson Lane	auto	-97.668517099719 	30.344809513745
+Kerbey Lane Cafe	3003 South Lamar Street	restaurant	-97.782966388569 	30.24228365247
+Wells Fargo Bank	6911 North FM 620 Road	banking	-97.854499057591 	30.402177469823
+Lakeway Resort and Spa	101 Lakeway Drive	hotel	-97.986795684754 	30.3746154356
+Westin	11301 Domain Drive	hotel	-97.724538190974 	30.399350628292
+Vitalogy Skincare	5625 Eiger Road	physician	-97.858614636685 	30.243386697255
+Block Advisors	9037 Research Blvd	accounting	-97.725173578092 	30.37365733373
+Corporate Investment	3807 Spicewood Springs Road	financial service	-97.749920543126 	30.364330594711
+JPMorganChase	504 Lavaca	banking	-97.745645077942 	30.268143549672
+JASK	11501 Rock Rose Avenue	technology	-97.722639134858 	30.400840384504
+Bear & Giraffe LLC	6304 Earlyway Drive	technology	-97.847807570966 	30.228082168135
+Courtyard	12833 N FM 620 RD	hotel	-97.801327708839 	30.466282097911
+Kerbey Lane Cafe	4301 W. William Cannon	restaurant	-97.839653571628 	30.221388544399
+Bank of America	3520 North Lamar Boulevard	banking	-97.74406372323 	30.304120268732
+Frost Bank	2425 Exposition	banking	-97.767145778543 	30.297464072338
+Results Physiotherapy	5601 Brodie Lane	physician	-97.821288702651 	30.226896509969
+BBVA Compass	6801 Manchaca Road	banking	-97.806272753297 	30.204078921831
+Centerlogic	5555 North Lamar Boulevard	technology	-97.725726437591 	30.323702311989
+Taco Cabana	9605 Research Boulevard	restaurant	-97.743027215274 	30.388320449536
+CleanScapes, LP	2631 Kramer Lane	landscaping	-97.719608678438 	30.394143822809
+Brown Advisory LLC	500 West 2nd Street	financial service	-97.749235127756 	30.265953652987
+Convey, Inc.	200 E. 6th Street	technology	-97.74120292251 	30.267807394878
+Taco Cabana	2117 West Ben White Boulevard	restaurant	-97.791446962027 	30.230611936314
+Morgan Stanley	301 Congress Avenue	financial service	-97.743537913022 	30.265382697736
+Randalls Food Markets	2025 West Ben White Boulevard	grocery store	-97.790098433984 	30.229251571014
+JPMorganChase	2224 Walsh Tarlton Lane	banking	-97.80993511049 	30.261643349518
+BBVA Compass	1912 West Stassney Lane	banking	-97.797068132093 	30.215563704229
+Randalls Food Markets	3300 Bee Caves Road	grocery store	-97.80016632683 	30.275736790375
+JPMorganChase	16900 N FM 620 Road	banking	-97.722191616724 	30.500423757404
+City of Austin - Economic Development	301 West 2nd Street	government	-97.746996306013 	30.264885072717
+Chem-Free Organic Pest & Lawn Service	9475 East US 290 Hwy	pest control	-97.632990927922 	30.328738673782
+Austin Duck Adventures	1600 Fort View Road	recreation	-97.782905702505 	30.228959727861
+Office Furniture NOW!	4201 Supply Court	office supplies	-97.703219924874 	30.195640874222
+Cafe Blue	340 East 2nd Street	restaurant	-97.74094789143 	30.263764502794
+Prosperity Bank	1701 West Parmer Lane	banking	-97.689471390256 	30.412316822561
+Holtzman Partners, LLP	1710 West 6th Street	accounting	-97.765919591841 	30.276866579604
+Austin INFINITI	8140 Burnet Road	auto	-97.730209567152 	30.360980807767
+Strictly Pediatrics Surgery Center	1301 Barbara Jordan Boulevard	hospital	-97.707285345398 	30.305587532663
+Wells Fargo Bank	201 Lavaca Street	banking	-97.746288211476 	30.265300363763
+Auguste Escoffier School of Culinary Arts	6020 Dillard Circle	education	-97.71781778631 	30.326598936248
+BB&T	12301 Bee Cave Parkway	banking	-97.932382179764 	30.307281518212
+American Bank of Commerce	10920 Lakeline Mall Drive	banking	-97.797462345929 	30.473991838166
+BBVA Compass	10711 Burnet Road	banking	-97.720763649601 	30.392412609524
+1st United Bank	4008 Medical Parkway	banking	-97.743039808852 	30.309464661683
+CyberTex, Inc.	6300 La Calma Drive	education	-97.702887895057 	30.324481542565
+Regions Bank	1114 Lost Creek Boulevard	banking	-97.82563843265 	30.283882522707
+Ruth's Chris Steak House	107 West 6th Street	restaurant	-97.743569778348 	30.268109925472
+Fleming's Steakhouse & Wine Bar	320 East 2nd Street	restaurant	-97.741305821897 	30.26374809124
+Charles Schwab & Company, Inc.	2309 Gracy Farms Lane	financial service	-97.709556728846 	30.402763431328
+Office Depot	2620 W. Anderson Lane	office supplies	-97.733673050864 	30.358171539925
+Zilleem, LLC	13033 Pond Springs Road	technology	-97.773707847216 	30.442158163557
+Rose Dental Group	6211 West William Cannon Drive	dentist	-97.865291043353 	30.230590215232
+Wyndham Austin	516 W 8th Street	hotel	-97.747412803069 	30.271809839498
+University Medical Center Brackenridge	601 East 15th Street	hospital	-97.733791239522 	30.275033444237
+Regents School of Austin	3230 Travis Country Circle	education	-97.844165668409 	30.254118409298
+Associated Time & Parking Controls	3913 Todd Lane	technology	-97.736023676802 	30.211963887145
+JPMorganChase	6406 North IH 35	banking	-97.70757883946 	30.325358992464
+Fairfield Inn & Suites	12536 North IH 35	hotel	-97.676456969464 	30.40722937661
+Austin Symphony Orchestra	1101 Red River Street	recreation	-97.735024854318 	30.271436256292
+Huston-Tillotson University	900 Chicon Street	education	-97.721371614332 	30.26467352865
+Lavaca Street Bar	405 Lavaca Street	restaurant	-97.745601821878 	30.267133054101
+Bank of America	515 Congress Avenue	banking	-97.742486296865 	30.267684603994
+Seton Healthcare Family	1345 Philomena Street	hospital	-97.708227456994 	30.302132922464
+Swish Dental	3310 West Braker Lane	dentist	-97.726041983408 	30.39306373121
+car2go	1717 West 6th Street	transportation	-97.765148258119 	30.275814248842
+Tramex Travel	4505 Spicewood Springs Rd.	air travel	-97.759997807987 	30.374225398576
+JPMorganChase	9739 Great Hills Trail	banking	-97.751713551695 	30.394004498554
+Sun RV Resorts	7009 South IH 35	hotel	-97.773164012215 	30.185414880154
+Baselice & Associates, Inc.	4131 Spicewood Springs Road	public relations	-97.755521681464 	30.37010719036
+Smile Doctors of Austin	8754 Research Blvd	dentist	-97.71871082287 	30.36564525539
+Texas Solutions Group	1303 San Antonio Street	public relations	-97.744460453418 	30.276569605929
+Intelligent Enterprise Solutions	701 Brazos Street	technology	-97.740525661732 	30.268895477561
+Taco Cabana	8620 Burnet Road	restaurant	-97.727957030672 	30.368660954787
+Bank of America	3700 N. Capital of Texas Highway	banking	-97.806985728469 	30.336101574546
+The College of Health Care Professions	6330 East US 290 Hwy	education	-97.699055368505 	30.322895645702
+Altierus Career College	9100 East US 290 Hwy	education	-97.655417756422 	30.329727264493
+BBVA Compass	12524 FM 2244	banking	-97.935036066864 	30.30593220473
+Airport Fast Park	2300 Spirit of Texas Drive	transportation	-97.66216168061 	30.218341058458
+Human Solution | UPLIFT Desk | Ergohuman	2139 W. Anderson Lane	retail	-97.729347249701 	30.353908731175
+Rose Dental Group	11615 Angus Road	dentist	-97.74389933653 	30.414232688193
+Courtyard by Marriott	12330 North IH 35	hotel	-97.675170180808 	30.401114551909
+Appliance Part Company	2301 East Saint Elmo Road	retail	-97.744468612279 	30.208590583089
+H-E-B	10710 Research Boulevard	grocery store	-97.748364223669 	30.398543975887
+Taco Cabana	9705 Manchaca	restaurant	-97.822681487308 	30.175152474824
+Antonelli's Cheese Shop	4220 Duval Street	restaurant	-97.7265654651 	30.304284347456
+Jaguar Land Rover Austin	1515 West 5th Street	auto	-97.762890176062 	30.273059896471
+H-E-B	16900 North FM 620 Road	grocery store	-97.722191616724 	30.500423757404
+Meraki	3000 Kramer Lane	retail	-97.723235605394 	30.396662452379
+Ellis & Salazar Body Shop	8808 Research Boulevard	auto repair	-97.719438538673 	30.367095952514
+BBVA Compass	4100 North Lamar Boulevard	banking	-97.740373109366 	30.308874463482
+Quorum Public Affairs, Inc.	100 Congress Avenue	public relations	-97.744766441723 	30.26404545167
+Bank of America	3301 Northland Dr.	banking	-97.756462943799 	30.336166635243
+The Driskill	604 Brazos Street	hotel	-97.741716739472 	30.268142099979
+Kerbey Lane Cafe	3704 Kerbey Lane	restaurant	-97.750479774302 	30.308036721539
+Rockford Business Interiors	211 East Riverside Drive	office supplies	-97.744520683638 	30.254239927495
+Everything But The House	106 East 6th Street	retail	-97.742319843276 	30.268075802323
+Hyatt Place	7522 North IH 35	hotel	-97.703960929949 	30.338484198198
+Hyatt House	10001 North Capital of Texas Highway	hotel	-97.739208710934 	30.390525928213
+Wells Fargo Bank	10401 Anderson Mill Road	banking	-97.805625937389 	30.446509068375
+Wells Fargo Bank	11212 North IH 35	banking	-97.677142387222 	30.376483232868
+Zachary Scott Theatre Center	1510 Toomey Rd.	theater	-97.758744410516 	30.263978309723
+American Bank of Commerce	610 West 5th Street	banking	-97.74958541551 	30.269171658295
+KIPP Austin Public Schools	8509 FM 969	education	-97.638346682923 	30.27553943236
+Chariot Transit, Inc.	600 Congress	transportation	-97.743118631469 	30.268503238774
+CognitiveScale Inc.	9500 Arboretum Boulevard	technology	-97.752812461441 	30.391204743646
+JPMorganChase	1904 Guadalupe Street	banking	-97.742447707758 	30.282345905363
+360 Valet	503 Colorado Street	transportation	-97.744185892402 	30.26787784403
+Cambridge Systematics, Inc.	10415 Morado Circle	transportation	-97.749479376999 	30.401113769778
+H-E-B	2508 East Riverside	grocery store	-97.722623454105 	30.235822887562
+Rudy's Country Store and BarBQ	11570 Research Boulevard	restaurant	-97.746455217656 	30.413709411319
+JPMorganChase	7600 Burnet Rd.	banking	-97.733720043568 	30.353121455152
+Bank of America	7900 Shoal Creek Blvd.	banking	-97.740914841539 	30.361723068746
+Panera Bread	9901 N. Capital of Texas Highway	bakery	-97.740417786052 	30.390317885823
+H-E-B Austin Regional Office	8100 Cameron Rd.	grocery store	-97.684022531855 	30.336689865127
+H-E-B	2110 West Slaughter Lane	grocery store	-97.825649909289 	30.175430296384
+Sherri Hill, Inc.	201 W. 5th Street	retail	-97.744835665122 	30.267333287629
+Carl Stuart Investment Advisor, Inc.	623 West 38th Street	financial service	-97.739157589462 	30.302741939623
+Courtyard	4533 South IH 35	hotel	-97.754279414474 	30.209102955356
+Bank of America	9701 Research Boulevard	banking	-97.744048974241 	30.390291079318
+World 1st	206 E. 9th Street	financial service	-97.739775141871 	30.270600649635
+Oracle Corporation	7700 W. Parmer Lane	technology	-97.750060295813 	30.457491463837
+Thermo Fisher Scientific	2130 Woodward Street	biomedical	-97.744948790911 	30.213241978481
+Rifeline	3724 Jefferson Street	public relations	-97.75091675644 	30.309169564371
+BB&T	601 West 5th Street	banking	-97.749120691844 	30.268530918138
+Bank of America	2511 W. Parmer Ln.	banking	-97.702944489958 	30.418493444461
+Arnold Public Affairs	815 Brazos Street	public relations	-97.7403268069 	30.270284138083
+Taco Cabana	2507 East Riverside	restaurant	-97.724269176736 	30.233760690238
+Austin Regional Clinic	4515 Seton Center Parkway	physician	-97.743044271968 	30.401473011648
+PMB Helin Donovan, LLP	12301 Research Boulevard	accounting	-97.753966579492 	30.428677168489
+Morrison & Head, LLP	4210 Spicewood Springs Road	accounting	-97.755972649943 	30.371373662624
+1st State Bank Central Texas	3951 West Parmer Lane	banking	-97.715256309557 	30.424929459393
+JPMorganChase	8111 N. FM 620 Road	banking	-97.846906319122 	30.416114954884
+Howdy Honda	5519 E. Ben White Boulevard	auto	-97.722921036738 	30.211242954602
+A New Beginning School of Massage	2525 Wallingwood Drive	education	-97.783709974705 	30.263940489134
+Texas Health and Science University	4005 Manchaca Rd	education	-97.785186265333 	30.233125084317
+Advance Auto Parts	1813 W. Parmer Lane	auto repair	-97.691884124384 	30.413201762804
+Baker Tilly Virchow Krause, LLP	2801 Via Fortuna	accounting	-97.799900822059 	30.252063759131
+Parmer Lane Orthodontics	2121 W Parmer Lane	dentist	-97.697569393127 	30.415649273473
+Central Texas Regional Mobility Authority (CTRMA)	3300 North IH 35	government	-97.722740519658 	30.291313428675
+Virginia College at Austin	14200 N IH 35	education	-97.671222311283 	30.432024983902
+Bryan Anthonys	9715 Burnet Road	retail	-97.724386505451 	30.381202393021
+HomeAway	1011 West 5th Street	travel	-97.755589195714 	30.270460592763
+Bailey Square Surgery Center	1111 West 34th Street	physician	-97.746707596856 	30.303386969901
+PlainsCapital Bank	220 East 8th Street	banking	-97.739872795884 	30.269635700747
+JPMorganChase	701 East Stassney Lane	banking	-97.768877220461 	30.20037826009
+Wells Fargo Bank	2028 E Ben White Boulevard	banking	-97.743285821888 	30.217067069701
+Omni Austin Hotel	700 San Jacinto Boulevard	hotel	-97.740205841383 	30.268576779852
+Bank of America	3900 North IH 35	banking	-97.719520535098 	30.295929158914
+Capital Cruises	208 Barton Springs Road	recreation	-97.746836488336 	30.260685957713
+Galaxy Highland Ten	6700 Middle Fiskville Road	recreation	-97.707365004557 	30.328569613951
+DJO Surgical	9800 Metric Boulevard	biomedical	-97.717898917433 	30.37833330741
+Austin Women MDs	12221 Renfert Way	physician	-97.703658777941 	30.411476018891
+Bob's Steak & Chop House	301 Lavaca Street	restaurant	-97.74600095271 	30.26613657989
+Wells Fargo Bank	609 Castle Ridge Road	banking	-97.829561018502 	30.294932903204
+Tacos and Tequila	507 Pressler Street	restaurant	-97.760147275007 	30.273164364027
+Heart Hospital of Austin	3801 North Lamar Boulevard	hospital	-97.741118774175 	30.305918087219
+Kasasa	4516 Seton Center Parkway	financial service	-97.741642563641 	30.401180672241
+Casa Chapala Mexican Grill and Catering	9041 Research Boulevard	restaurant	-97.725579156945 	30.373722814925
+BBVA Compass	3633 Bee Caves Road	banking	-97.806354999785 	30.278407415705
+Texas Bankers Association	203 West 10th Street	public relations	-97.743512466278 	30.272100396185
+H-E-B	5808 Burnet Rd	grocery store	-97.741086867373 	30.334258744787
+Hmart Companies, Inc	11301 Lakeline Boulevard	grocery store	-97.799379705333 	30.479431147645
+Hilltop Securities, Inc.	300 West 6th Street	banking	-97.745662617967 	30.26911458181
+Benchmark Business Solutions	13279 Pond Springs Road	technology	-97.781001956061 	30.447664725239
+Fairfield Inn	4525 South IH 35	hotel	-97.75422411763 	30.209928753345
+Altatudes	1717 E 12th St	retail	-97.721116267666 	30.273331748518
+Q2 Holdings	13785 N US 183 Hwy	financial service	-97.792814006863 	30.462862668829
+BB&T	9777 Great Hills Trail	banking	-97.750332835637 	30.393819938509
+H-E-B	12860 North US 183 Hwy	grocery store	-97.772711174862 	30.434354645048
+i Fratelli Pizza	10001 Research Blvd.	restaurant	-97.745606029231 	30.392236744567
+Wells Fargo Bank	3221 Red River Street	banking	-97.726416165891 	30.29158457913
+Radisson Hotel & Suites	111 East Cesar Chavez Street	hotel	-97.744061117869 	30.263104115948
+Yard House	11800 Domain Blvd	restaurant	-97.723089829678 	30.405305703633
+Ellis & Salazar Garage and Body Shop	4501 South Congress Avenue	auto repair	-97.767660734463 	30.216155055595
+JPMorganChase	500 Canyon Ridge Dr.	banking	-97.671897369128 	30.405272532814
+Austin Club	110 East 9th Street	recreation	-97.740839928106 	30.270970967816
+Eureka!	200 East 6th Street	restaurant	-97.74120292251 	30.267807394878
+Liquidation Channel	100 Michael Angelo Way	retail	-97.675221978069 	30.470716455796
+BioLife Plasma Services	14415 Owen Tech Boulevard	biomedical	-97.670304587103 	30.435857548996
+American Medical Response of Texas	3601 Bluestein Drive	biomedical	-97.672637591245 	30.272592825853
+Wells Fargo Bank	11302 FM 2222 Rd	banking	-97.851512926423 	30.401138867956
+Frontier Bank of Texas	2200 Lake Austin Blvd.	financial service	-97.77055315848 	30.277553401547
+Coburn and Company	11705 North Lamar Boulevard	interior design	-97.683289432626 	30.386543417004
+JPMorganChase	5145 N FM 620	banking	-97.883582116448 	30.389183980111
+Wells Fargo Bank	2300 S IH 35	banking	-97.742330290272 	30.233563493812
+Intelligent Logistics, LLC	1100 East Howard Lane	transportation	-97.64619850705 	30.410337385675
+Stubb's BBQ	801 Red River	restaurant	-97.736162535008 	30.268604461522
+Royal Blue Grocery	247 West 3rd Street	grocery store	-97.746020389715 	30.265742326462
+Meador & Jones, LLP	2414 Exposition Boulevard	accounting	-97.768080040965 	30.297680797888
+Southern Careers Institute of Austin	1701 Directors Boulevard	education	-97.75171274726 	30.213114566162
+Paramount and State Theatres	713 Congress Avenue	theater	-97.741911331557 	30.26927367578
+Riepen Investments, LLC	6800 Austin Center Boulevard	financial service	-97.750838617783 	30.349678227819
+American Bank of Commerce	8668 Spicewood Springs Road	banking	-97.770062441778 	30.433839853845
+Office Depot	500 E. Ben White Boulevard	office supplies	-97.756556034486 	30.221117570875
+Raising Cane's Chicken Fingers	415 West Martin Luther King Jr Boulevard	restaurant	-97.742548357203 	30.281574818721
+Wells Fargo Bank	605 West 15th Street	banking	-97.745682266874 	30.278393008195
+Saltgrass Steakhouse	10614 Research Boulevard	restaurant	-97.74707445096 	30.397651405056
+Austin Children's Museum	1830 Simond Avenue	museum	-97.705009367472 	30.297585151109
+Regions Bank	11215 South IH 35	banking	-97.795900531681 	30.137769606568
+Comfort Suites	15112 FM 1825	hotel	-97.666093171215 	30.444332640497
+Courtyard by Marriott	5660 North IH 35	hotel	-97.708014994501 	30.317399117853
+Chuy's Mexican Food	1728 Barton Springs Road	restaurant	-97.763279065624 	30.263867840824
+JPMorganChase	7301 N. FM 620 Road	banking	-97.851654083883 	30.404592727936
+Emergo Group, Inc.	2500 Bee Caves Road	biomedical	-97.78437104243 	30.268715942833
+Grand Canyon University	9323 Manchaca Road	education	-97.81935063628 	30.178621211798
+Rudy's Country Store and BarBQ	2451 South Capital of Texas Highway	restaurant	-97.814810872954 	30.263868016768
+JPMorganChase	11800 Domain Drive	banking	-97.723089829678 	30.405305703633
+Lamb's Tire & Automative Centers	5001 W US 290 HWY	auto repair	-97.821361787871 	30.233014556791
+Hotel Van Zandt	605 Davis Street	hotel	-97.739217130632 	30.260108866078
+Regions Bank	8110 North FM 620 Road	banking	-97.848336111262 	30.416340753881
+PayPal	7700 West Parmer Lane	retail	-97.750060295813 	30.457491463837
+Broadway Technology	5000 Plaza on the Lake	technology	-97.801580597867 	30.34911182013
+YETI Coolers	5301 Southwest Pkwy	retail	-97.841513598952 	30.24358036992
+Rocket Electrics	408 West 2nd Street	travel	-97.74789921424 	30.265518832107
+JPMorganChase	2711 West Anderson Lane	banking	-97.736459262308 	30.358346251665
+Central Transportation Systems, Inc.	15877 Long Vista Dr.	transportation	-97.67486714557 	30.460211600359
+Amazon, Inc.	11501 Alterra Parkway	retail	-97.71926100865 	30.400742833094
+IDEA Public Schools	2800 South IH 35	education	-97.745261543046 	30.2284604072
+R & R Limousine & Bus	9315 Thaxton Road	transportation	-97.731727720019 	30.137313787169
+Alliance Transportation Group, Inc.	11500 Metric Boulevard	transportation	-97.708043330267 	30.394584282813
+1st Texas Honda	3400 Steck Avenue	auto	-97.739771026499 	30.367238423331
+Wells Fargo Bank	2326 South Congress	banking	-97.75342917886 	30.239538466398
+Sprint Store	600 E. Ben White Blvd	retail	-97.756165321251 	30.219629391403
+Austin Cancer Centers	2211 West Braker Lane	physician	-97.7117046874 	30.392219565219
+McGuireWoods Consulting	816 Congress Avenue	public relations	-97.742339004494 	30.2705901992
+Embassy Suites	5901 North IH 35	hotel	-97.705943118309 	30.319513760061
+Office Depot	9600 S. IH 35	office supplies	-97.792445980938 	30.160573651117
+Prosperity Bank	7001 West US 290 Hwy	banking	-97.873521758107 	30.232636581094
+Austin Community College	5930 Middle Fiskville Road	education	-97.71218922423 	30.322657673902
+Wells Fargo Bank	10400 Research Boulevard	banking	-97.747464539377 	30.396555845229
+Kerbey Lane Cafe	701 South Capital of Texas Highway	restaurant	-97.827332497576 	30.292995274726
+Asuragen, Inc.	2150 Woodward Street	biomedical	-97.744048372635 	30.21243456898
+JPMorganChase	3267 Bee Caves Rd.	banking	-97.80148339272 	30.2741005322
+H-E-B	500 Canyon Ridge Drive	grocery store	-97.671897369128 	30.405272532814
+Capitol Anesthesiology Association	3705 Medical Parkway	physician	-97.744057917953 	30.305192570203
+Rose Dental Group	1450 West Parmer Lane	dentist	-97.684987415242 	30.410945645893
+H-E-B	6607 South IH 35	grocery store	-97.768921234266 	30.188757344523
+Wells Fargo Bank	1601 W Parmer Lane	banking	-97.687401819334 	30.411115782532
+BBVA Compass	11721 N FM 620	banking	-97.823469275107 	30.457032931505
+La Quinta Inn	7625 E. Ben White Blvd.	hotel	-97.69088981842 	30.217307096132
+Wells Fargo Bank	9908 Brodie Lane	banking	-97.849287676612 	30.185314636063
+Texas Document Solutions	2600 Longhorn Boulevard	office supplies	-97.725228575816 	30.380757876481
+BBVA Compass	2401 South Congress Avenue	banking	-97.753395204388 	30.238351124376
+Moonshine Patio Bar & Grill	303 Red River	restaurant	-97.73797225921 	30.263872033681
+Prosperity Bank	3401 Northland Drive	banking	-97.757559226209 	30.337384232546
+The University of Texas Dell Medical School	1912 Speedway	education	-97.73878651664 	30.281701548612
+American Bank of Commerce	2243 West Braker Lane	banking	-97.713330283711 	30.390949094388
+St. David's Emergency Center	12813 Galleria Circle	hospital	-97.940982144163 	30.307913753198
+Maggie Louise Confections	1017 East 6th Street	bakery	-97.731873365507 	30.264667728073
+Hotel Ella	1900 Rio Grande Street	hotel	-97.745514069069 	30.283100949629
+Hilton Garden Inn	11617 Research Boulevard	hotel	-97.745529320247 	30.415766351407
+H&R BLOCK	6929 Airport BLVD	accounting	-97.717593264816 	30.337620171995
+South Austin Hospital	901 W. Ben White Blvd.	hospital	-97.774429603756 	30.226383259523
+Roger Beasley Mitsubishi	1120 Shelby Lane	auto	-97.756915612828 	30.210902653192
+Acxiom Corporation	6500 River Place Blvd.	technology	-97.848638947286 	30.392124756135
+National American University	13801 Burnet Road	education	-97.697661261732 	30.438704855895
+Crown Trophy	12233 N FM 620 Road	retail	-97.814775174571 	30.462205170598
+Hampton Inn & Suites	200 San Jacinto Boulevard	hotel	-97.74186463048 	30.264062097896
+Management Information Analysis	9390 Research Boulevard	technology	-97.743531693814 	30.383433127038
+Benchmark Bank	1901 North Lamar Boulevard	banking	-97.751904032325 	30.284032924497
+Aveda Institute	6001 Middle Fiskville Road	education	-97.709378150345 	30.322584977276
+Long Motors, Inc.	6940 South IH 35	auto	-97.77389230546 	30.187079708312
+vXchnge	8025 North IH 35	technology	-97.69622768325 	30.342774520035
+Bank of America	5725 West US 290 Hwy	banking	-97.846769246641 	30.235266692851
+Embassy Suites Hotel	300 South Congress Avenue	hotel	-97.746775583432 	30.258552125731
+Lamb's Tire & Automotive Centers	12221 FM 2244	auto repair	-97.930820011635 	30.306235538694
+RSM US LLP	811 Barton Springs Road	accounting	-97.753111831502 	30.259030149926
+TEK Systems	6500 River Place Boulevard	technology	-97.848638947286 	30.392124756135
+Sportsmobile Texas	9805 Gray Boulevard	auto	-97.713260224404 	30.37718203451
+Snyxius Technologies	2301 W Anderson Ln	technology	-97.730282665479 	30.355382662756
+Westin	310 East 5th Street	hotel	-97.740230544636 	30.266483464928
+Southside Bank	1250 South Capital of Texas Highway	banking	-97.822718670503 	30.280573148021
+thredUP	10910 Domain Drive	retail	-97.726954589025 	30.395574414388
+World Golf Championships	3600 N. Capital of Texas Hwy	recreation	-97.807371463634 	30.335325856079
+Austin Executive Airport	6012 Aviation Drive	air travel	-97.573217680605 	30.399505743787
+Formaspace Technical Furniture	1100 E. Howard Lane	retail	-97.64619850705 	30.410337385675
+Flashback Data, LLC	4029 South Capital of Texas Highway	technology	-97.796687148459 	30.238452431165
+Uber Technologies, Inc.	201 East 3rd Street	livery service	-97.742389303548 	30.26468190553
+Hill+Knowlton Strategies	500 West 5th Street	public relations	-97.747850220469 	30.268678120254
+Vast.com, Inc.	612 West 4th Street	technology	-97.749787026462 	30.268288574258
+Bank of America	8627 Research Blvd.	banking	-97.716913752624 	30.363034432581
+Kerbey Lane	13435 North US 183 Hwy	restaurant	-97.787957408684 	30.448283202716
+Archer Austin	3121 Palm Way	hotel	-97.721161240044 	30.402203613953
+Galvanize Austin	119 Nueces Street	technology	-97.749746382218 	30.265650972729
+Wells Fargo Bank	2336 S Congress Avenue	banking	-97.753603335305 	30.239214684352
+Panera Bread	2805 Bee Caves Road	bakery	-97.789502654079 	30.270739058229
+Black's Barbecue, The Original	3110 Guadalupe	restaurant	-97.741103585213 	30.298559523556
+Dynamic Computing Services Corporation	3307 Northland Dr.	technology	-97.757615895663 	30.334756871506
+Office Depot	19000 Limestone Commercial Drive	office supplies	-97.597128787167 	30.471820293764
+The Art Institute of Austin	101 West Louis Henna Boulevard	education	-97.675112629417 	30.478801531327
+SparkCognition	4030 West Braker Lane	technology	-97.737026583751 	30.398507510258
+BBVA Compass	7951 Shoal Creek	banking	-97.739813052838 	30.362919202534
+Residence Inn	3201 Caseybridge Court	hotel	-97.698964925289 	30.213879284346
+Wells Fargo Bank	3949 S Lamar Boulevard	banking	-97.791552384227 	30.236414426775
+Randalls Food Markets	1500 West 35th Street	grocery store	-97.749017430135 	30.306596320726
+WP Engine	504 Lavaca Street	technology	-97.745645077942 	30.268143549672
+Taco Cabana	8415 Research Boulevard	restaurant	-97.715674872744 	30.358548050551
+The South Terminal at Austin-Bergstrom International Airport	10000 Logistics Lane	air travel	-97.670772341363 	30.193348067755
+Frost Bank	2421 East 7th	banking	-97.714316701867 	30.260763378715
+IT Freedom	8711 Burnet Road	technology	-97.726937923739 	30.369396601108
+Office Depot	701 South Capital of Texas Hwy	office supplies	-97.827332497576 	30.292995274726
+Vista Equity Partners	401 Congress Avenue	financial service	-97.743035585989 	30.266405826171
+Rylet Industries, LLC	2110 W Slaughter Lane	technology	-97.825649909289 	30.175430296384
+TownePlace Suites	13501 Lyndhurst Street	hotel	-97.783230017804 	30.474710488153
+Superconductor Technologies Inc.	9101 Wall Street	technology	-97.66916444001 	30.342927941206
+Roger Beasley Mazda South	4506 South IH 35	auto	-97.756069244644 	30.21052161293
+Wells Fargo Bank	3909 North IH 35	banking	-97.717657164318 	30.296226716875
+Office Depot	907 W. 5th Street	office supplies	-97.753919120764 	30.269788246269
+Wells Fargo Bank	1000 East 11th Street	banking	-97.729931255938 	30.269629082453
+Blazer Tag Adventure Center	1701 West Ben White Boulevard	recreation	-97.784620957751 	30.226881633109
+Frost Bank	100 East Anderson Lane	banking	-97.704362207455 	30.344259476808
+Regions Bank	100 Congress Ave	banking	-97.744766441723 	30.26404545167
+Capitol Rubber Stamp Service	3314 South Congress Avenue	retail	-97.760376953048 	30.229950309014
+Northstar Fire Protection	4616 West Howard Lane	retail	-97.709336274717 	30.445197436269
+Capital Metropolitan Transportation Authority	2910 East 5th Street	transportation	-97.709760806209 	30.256539804763
+Take 5 Oil Change	13781 N US 183 Hwy	auto repair	-97.793544435551 	30.462315474574
+Sutherland Auto Body	4704 South Lamar Boulevard	auto repair	-97.809285310698 	30.233902022333
+Trinity Episcopal School	3901 Bee Caves Road	education	-97.809014439636 	30.2812631302
+Springhill Suites	12520 North IH 35	hotel	-97.676314512542 	30.406299652478
+Staybridge Suites	901 Little Texas Lane	hotel	-97.769157436777 	30.198191149392
+Elegant Limousine Charter	9501 Cargo Avenue	livery service	-97.668552774635 	30.216825904068
+Complete Network Management, Inc.	11801 Domain Boulevard	technology	-97.721064163961 	30.404774803663
+Pflugerville ISD	1401 West Pecan	education	-97.63654428688 	30.446444805797
+St. David's Pavilion	1025 East 32nd St.	hospital	-97.723746477707 	30.289248429762
+Office Depot	12812 Shops Parkway	office supplies	-97.94183782818 	30.306204027902
+Frank Erwin Center	1701 Red River	theater	-97.732250728223 	30.276856909678
+Juliet Italian Kitchen	1500 Barton Springs Road	restaurant	-97.760070263939 	30.261847951089
+Bank of America	1144 Airport Boulevard	banking	-97.698065351301 	30.272211581311
+Broadway Bank	911 West 38th Street	banking	-97.74307396942 	30.30461343789
+Bank of America	6403 Airport Boulevard	banking	-97.715398272684 	30.328368097792
+University of St. Augustine	5401 La Crosse Avenue	education	-97.877175365261 	30.191349038808
+The Sail & Ski Center	12971 N US 183 Hwy	auto	-97.77492258282 	30.437582842688
+Office Depot	4615 N. Lamar Boulevard	office supplies	-97.734861627084 	30.315360978836
+BardWrite	1250 S. Capital of Texas Hwy	technology	-97.822718670503 	30.280573148021
+Audi South Austin	4738 South IH 35	auto	-97.757432776282 	30.20823833708
+3 Point Partners	1250 South Capital of Texas Hwy	public relations	-97.822718670503 	30.280573148021
+Texas Children's Hospital	4477 South Lamar	hospital	-97.797308871203 	30.23103066844
+Fogo de Chao	309 East 3rd Street	restaurant	-97.740687387034 	30.264221097074
+BB&T	2110 Boca Raton Drive	banking	-97.794850165335 	30.139663960085
+H-E-B	2400 S Congress Ave	grocery store	-97.754593386208 	30.238296785146
+Velocity Credit Union	610 East 11th Street	financial service	-97.7345454519 	30.271588805309
+BidPrime	1301 South IH 35	public relations	-97.734403064137 	30.244657288392
+Office Depot	12625 N. IH 35	office supplies	-97.672766005184 	30.409506637455
+Diamonds Direct	11104 Domain Drive	jewelry	-97.72632336669 	30.397496464194
+Guero's Taco Bar	1412 South Congress Avenue	restaurant	-97.750223370563 	30.249169223741
+Lamps Plus	10000 Research Blvd	retail	-97.747193631311 	30.392832749994
+Wells Fargo Bank	13000 North IH 35	banking	-97.674773806431 	30.41555289812
+Hampton Inn & Suites	1701 Lavaca Street	hotel	-97.741020132435 	30.279538829243
+JPMorganChase	4601 North Lamar Boulevard	banking	-97.735472086249 	30.315023176264
+Eanes ISD	601 Camp Craft Road	education	-97.81547707374 	30.276865282953
+American Bank of Commerce	2535 West Anderson Lane	banking	-97.733940801184 	30.357224928945
+The Graydon Group, LLC	1001 Congress Avenue	public relations	-97.740991278688 	30.271854139987
+Bank of America	1544 FM 685	banking	-97.604876370943 	30.452030521423
+Roger Beasley Mazda	6825 Burnet Road	auto	-97.737346907658 	30.34445566068
+Scott Airport Parking, Park & Zoom, Bark & Zoom	111 Congress Avenue	transportation	-97.743654219933 	30.263744972388
+Peddle	111 West 6th Street	auto	-97.74369550874 	30.268149149511
+Capitol Chevrolet	6200 South IH 35	auto	-97.76828153171 	30.194891748863
+Take 5 Oil Change	15207 FM 1825	auto repair	-97.664085133248 	30.444353508082
+Frost Bank	605 Canyon Ridge Drive	banking	-97.673666046001 	30.403026071664
+Lamb's Tire & Automotive Centers	3564 Far West	auto repair	-97.754089341606 	30.354174944079
+Velocity Credit Union	4220 South Lamar Blvd.	financial service	-97.795803495906 	30.237153286452
+Concordia University Texas	11400 Concordia University Drive	education	-97.840284054052 	30.420210780063
+SXSW	400 Bowie Street	festival	-97.753487058116 	30.269488066966
+FBR Management	801 Springdale	venue	-97.699599193505 	30.258517878834
+Russo's Pizzeria	10721 Research Blvd.	restaurant	-97.74511053597 	30.399039584107
+Panera Bread	4625 W. William Cannon	bakery	-97.843595613007 	30.223367796815
+Phunware, Inc.	7800 Shoal Creek Boulevard	technology	-97.74215977795 	30.359831228232
+Academy of Hair Design	2015 East Riverside Drive	education	-97.727868981287 	30.239648442479
+Infocyte	805 Las Cimas Parkway	technology	-97.829844351983 	30.289653439137
+Sam's Club	4970 West US 290 Hwy	retail	-97.818831922646 	30.234320811541
+St. Edward's University	3001 South Congress Avenue	education	-97.757134139715 	30.232099688477
+Ferrari of Austin	4108 North Lamar Boulevard	auto	-97.740587033237 	30.309646736903
+Macrotech Pro	1600 Wickersham Lane	technology	-97.718593974306 	30.235982760884
+ResearchPoint Global	5301 Southwest Parkway	biomedical	-97.841513598952 	30.24358036992
+AM Technical Solutions	2213 North FM 620 Rd	technology	-97.942350367018 	30.385718649595
+Max's Wine Dive	207 San Jacinto Boulevard	restaurant	-97.741287248512 	30.264282932115
+Tableau Software	600 Congress Avenue	technology	-97.743118631469 	30.268503238774
+Bank of America	3601 West William Cannon Dr.	banking	-97.831979068399 	30.214278141157
+ABC Home & Commercial Services	9475 East U.S. 290 Hwy	pest control	-97.632990927922 	30.328738673782
+Courtyard by Marriott	9409 Stonelake Boulevard	hotel	-97.7402480119 	30.385234394934
+Kendra Scott Jewelry	3800 North Lamar Blvd	jewelry	-97.743023574932 	30.306001149624
+City of Austin - Small Business Program	505 Barton Springs Road	government	-97.749197218339 	30.257511739377
+Jason's Deli	1000 E 41st Street	restaurant	-97.719654204682 	30.300469382886
+Hilton Garden Inn	500 North IH 35	hotel	-97.735522508172 	30.265018127641
+BBVA Compass	5600 Burnet Road	banking	-97.740247313522 	30.33146116068
+Frost Bank	1200 Barbara Jordan Boulevard	banking	-97.709238885599 	30.30738930439
+The Davey Tree Expert Company	9224 Research Blvd.	landscaping	-97.736015593164 	30.376988472817
+Bug Master	1912 Smith Road	pest control	-97.675796131893 	30.259984617154
+Truluck's Seafood, Steak and Crab House	400 Colorado Street	restaurant	-97.745022735095 	30.266855757104
+Ellis & Salazar Delta Body & Frame	8425 Anderson Mill Road	auto repair	-97.764845353093 	30.456434195831
+BB&T	3342 Bee Caves Road	banking	-97.802263604284 	30.27634938827
+American Bank of Commerce	2201 West Ben White Blvd	banking	-97.792509667543 	30.231210586818
+VMWare	3900 North Capital of Texas Highway	technology	-97.806558877958 	30.338289429066
+Four Seasons Hotel	98 San Jacinto Boulevard	hotel	-97.742331060009 	30.262327320736
+JPMorganChase	2119 E. 7th St.	banking	-97.718983229262 	30.261502972271
+Sonesta Hotel	12525 Bee Cave Parkway	hotel	-97.935430483969 	30.309709127617
+Austinuts	2900 W. Anderson Lane	retail	-97.737415382585 	30.359586767598
+Austin Scottish Rite Community Theater	207 West 18th Street	theater	-97.740654568319 	30.279996599355
+Texas Alliance for Patient Access	2301 South Capital of Texas Highway	public relations	-97.817168325335 	30.266078819739
+H-E-B	2701 East 7th Street	grocery store	-97.711378856383 	30.259562596121
+Moody National Bank	400 West 15th Street	banking	-97.743148865573 	30.278182306438
+Bank of America	12521 North IH 35	banking	-97.673999603751 	30.406409788933
+College Forward	505 East Huntland Drive	education	-97.708417352286 	30.330432537428
+Hillcrest Bank	11044 Research Boulevard	banking	-97.746276947901 	30.40520577938
+Taco Cabana	5242 North Lamar	restaurant	-97.729839764082 	30.321062921424
+Residence Inn	3713 Tudor Boulevard	hotel	-97.739875402121 	30.384698763983
+Wells Fargo Bank	1145 Airport Boulevard	banking	-97.697233246559 	30.272793137971
+Rackspace Hosting	9001 North IH 35	technology	-97.689222049922 	30.353924481767
+Fire Bowl Cafe	13000 N FM 620 RD	restaurant	-97.79951471546 	30.468630346411
+W Hotel	200 Lavaca Street	hotel	-97.746643677952 	30.265339416584
+Sam's Club	9900 South IH 35	grocery store	-97.79321607638 	30.157218006399
+Platinum Parking	221 W. 6th Street	transportation	-97.744774813724 	30.268326553628
+Wells Fargo Bank	3201 Bee Caves Road	banking	-97.800185423769 	30.272814653743
+Goodwill	2500 Scarbrough Drive	retail	-97.672597051285 	30.461916313026
+Priester-Mell & Nicholson, Inc.	601 East 56th Street	retail	-97.715493729347 	30.318919785198
+Ballet Austin	501 West 3rd Street	theater	-97.749027315488 	30.266485533842
+Chez Zee American Bistro	5406 Balcones Drive	restaurant	-97.758034865742 	30.336641021838
+JPMorganChase	5407 N IH 35	banking	-97.706960665618 	30.314282061467
+Murphy USA	9926 Lake Creek Parkway	auto repair	-97.789742870664 	30.468806912884
+H-E-B	600 West William Cannon Drive	grocery store	-97.786274139613 	30.198061065358
+JPMorganChase	5700 West Slaughter Lane	banking	-97.868445626385 	30.201838791201
+Tiff's Treats	5114 Balcones Woods Drive	bakery	-97.746655079078 	30.407965356035
+Lamb's Tire & Automotive Centers	15800 Foothill Farms Loop	auto repair	-97.652722593224 	30.447800937011
+Snarf's Sandwiches	2901 Medical Arts Street	restaurant	-97.728518206755 	30.288581274933
+Doubletree by Hilton	6505 N. IH 35	hotel	-97.704863467095 	30.326386814977
+Northrop Grumman	7745 Chevy Chase Dr.	technology	-97.702719099418 	30.340353249307
+Downtown Austin Alliance	211 East 7th Street	public relations	-97.740658151122 	30.268241699329
+La Quinta Inn & Suites	150 Parker Drive	hotel	-97.674538180474 	30.474775865199
+Hilton Garden Inn Austin	12400 North IH 35	hotel	-97.675352324859 	30.40295995127
+Austin Habitat for Humanity ReStore	500 West Ben White Blvd	retail	-97.767990982308 	30.226672837191
+Frost Bank	10915 Pecan Park Boulevard	banking	-97.804273364192 	30.46532011125
+Frost Bank	5656 Bee Caves Road	banking	-97.824442041806 	30.294981318889
+SKG	6301 East Stassney Lane	office supplies	-97.718753728733 	30.202289384605
+Austintatious Blinds and Shutters	12918 Shops Parkway	retail	-97.944733232568 	30.30715725776
+Bank of America	11500 FM 2222 Rd	banking	-97.853504040266 	30.403784647705
+Wenzel Spine Inc.	1130 Rutherford Lane	biomedical	-97.688699933168 	30.340370166594
+IBM Corporation	11400 Burnet Road	technology	-97.724172381462 	30.393977760554
+Pavilion Lincoln Mercury	12126 Hunters Chase Drive	auto repair	-97.777385431393 	30.441067278765
+Office Depot	2101 South Lamar Boulevard	office supplies	-97.77033240481 	30.24749977082
+Bank of America	12574 Research Blvd.	banking	-97.761766840207 	30.429485132786
+Stellargy Services LLC	5316 West US 290 Hwy	public relations	-97.83504090819 	30.237928587007
+Residence Inn	11301 Burnet Road	hotel	-97.71910714412 	30.397176356574
+Lamb's Tire & Automotive Centers	10740 Research	auto repair	-97.746794726583 	30.399755437742
+Tokyo Electron US Holdings	2400 Grove Boulevard	technology	-97.709685995116 	30.222465052444
+Residence Inn	12401 North Lamar Boulevard	hotel	-97.677480964075 	30.406534753015
+Impresario	11812 Tedford	recreation	-97.681681962103 	30.387779508471
+St. Andrew's Episcopal School	1112 West 31st Street	education	-97.748283945507 	30.301998932226
+Bank of America	9912 Manchaca Road	banking	-97.82433432435 	30.173480728167
+Prosperity Bank	1610 West North Loop Boulevard	banking	-97.739088894975 	30.325961771987
+Prosperity Bank	8770 Research Boulevard	banking	-97.71890388213 	30.366094492757
+The University of Texas System Administration	210 West 7th Street	education	-97.744272396797 	30.269654609011
+Unhinged Studio	220 Industrial Boulevard	interior design	-97.762149308431 	30.219316163539
+PPD Development	7551 Metro Center Drive	biomedical	-97.694053101163 	30.21308039108
+Prosperity Bank	2829 Bee Caves Road	banking	-97.790580590052 	30.270550384986
+Rooms to Go	9500 South IH 35	retail	-97.79312515348 	30.162916955977
+Pivot3	221 West 6th Street	technology	-97.744774813724 	30.268326553628
+JPMorganChase	13776 North US 183 Hwy	banking	-97.797213945151 	30.462188309698
+The Oasis	6550 Comanche Trail	restaurant	-97.873410622841 	30.404982403093
+Simmons Bank	3001 Palm Way	banking	-97.719474674349 	30.402651546928
+Orkin	3019 Alvin Devane Boulevard	pest control	-97.720028945751 	30.214938889966
+Black Walnut Café	10817 FM 2222 Rd	restaurant	-97.84749931468 	30.395259227243
+BB&T	3508 South Lamar Boulevard	banking	-97.788204961368 	30.239876606533
+Velocity Credit Union	1201 West Braker Lane	financial service	-97.693525059548 	30.384655488024
+Texas Protax	8322 Cross Park Drive	accounting	-97.672436602105 	30.33546805348
+Wells Fargo Bank	4301 West William Cannon Drive	banking	-97.839653571628 	30.221388544399
+Office Depot	816 Tirado Street	office supplies	-97.708461717225 	30.323481881481
+Taco Cabana	6430 South IH 35	restaurant	-97.771017639477 	30.191344261253
+BB&T	3801 North Capital of Texas Highway	banking	-97.804184110664 	30.336353114246
+WGU Texas	12515 Research Boulevard	education	-97.758453901963 	30.431111738647
+Faske Lay & Co., LLP	3508 Far West Boulevard	accounting	-97.75197194023 	30.353150549384
+Residence Inn	300 East 4th Street	hotel	-97.740879726118 	30.265609263934
+Seton Medical Center Austin	1201 West 38th Street	hospital	-97.745402216857 	30.304914429358
+Bank of America	2501 S. Congress	banking	-97.754478163945 	30.237372252449
+Montgomery Coscia Greilich, LLP	2901 Via Fortuna	accounting	-97.800374887582 	30.251051311449
+Wells Fargo Bank	701 S. Capital of Texas Highway	banking	-97.827332497576 	30.292995274726
+Taco Cabana	211 South Lamar	restaurant	-97.756794995671 	30.263959185837
+Cirrus Logic	800 West 6th Street	retail	-97.75089923086 	30.270596525547
+Certain Affinity	7620 Guadalupe St	technology	-97.712164983578 	30.343505013798
+Regions Bank	13301 N. US 183 Hwy	banking	-97.784635667127 	30.445499197592
+BBVA Compass	2514 West Parmer Lane	banking	-97.702617698431 	30.419535907081
+H-E-B	7301 North FM 620 Road	grocery store	-97.851654083883 	30.404592727936
+PlainsCapital Bank	201 W 5th Street	banking	-97.744835665122 	30.267333287629
+Cannon + Belle	500 East 4th Street	restaurant	-97.738630801759 	30.265070136705
+Springhill Suites	4501 South IH 35	hotel	-97.753822196744 	30.210221968328
+United Parcel Service	9020 Tuscany Way	transportation	-97.66137263576 	30.337306298129
+Forcepoint	10900 Stonelake Boulevard	technology	-97.736429028604 	30.401985934424
+Google Fiber Space	201 Colorado Street	venue	-97.745074727956 	30.264857309355
+Regions Bank	4314 W. Braker Lane	banking	-97.740691839953 	30.400223592028
+H-E-B	14028 North US 183 Hwy	grocery store	-97.802997731506 	30.477405195507
+InterContinental Stephen F. Austin Hotel	701 Congress Avenue	hotel	-97.741980426601 	30.269060436765
+Sprinkles	3120 Palm Way	bakery	-97.721331897307 	30.402794705667
+BBVA Compass	321 West 6th Avenue	banking	-97.746090606534 	30.268714551491
+Sam's Club	9700 N. Capital of Texas Hwy	grocery store	-97.74236381607 	30.390930896049
+Texas Alternator	9545 North IH 35	auto repair	-97.685971580058 	30.360105135283
+Wells Fargo Bank	3738 Bee Caves Road	banking	-97.807450675707 	30.280645765037
+Liz James Designs	4407 Bee Caves Road	jewelry	-97.813340708346 	30.285992803831
+Art Hall Awards	9421 Burnet Road	retail	-97.724717051591 	30.378270896415
+Mercedes Benz of Austin	6757 Airport Boulevard	auto	-97.715595257166 	30.332809782972
+Land Strategies, Inc.	1010 Land Creek Cove	landscaping	-97.788808816101 	30.266459377046
+Maudie's Tex-Mex	800 South Lamar	restaurant	-97.760590976173 	30.257644902255
+Austin ISD	1111 West 6th Street	education	-97.75606137298 	30.272081017041
+Omni Barton Creek Resort and Spa	8212 Barton Club Drive	hotel	-97.859775150577 	30.292491511198
+BB&T	2702 Bee Caves Road	banking	-97.785145925056 	30.269187633723
+Prosperity Bank	12730 Research Boulevard	banking	-97.767010795122 	30.432315689256
+Wells Fargo Bank	2354 Guadalupe Street	banking	-97.741837904232 	30.287576889673
+Hyatt Place	211 East 3rd Street	hotel	-97.741832011717 	30.264495728739
+Microtel Inn & Suites	7705 Metro Center Drive	hotel	-97.690307697567 	30.216424510842
+1st State Bank	5501 West US 290 Hwy	banking	-97.840873737275 	30.235543529959
+FreightPros	3307 Northland Drive	transportation	-97.757615895663 	30.334756871506
+Digital Realty	7500 Metro Center Drive	technology	-97.695512249822 	30.212244202949
+BB&T	10900 Lakeline Mall Drive	banking	-97.796535964037 	30.476030844112
+Sterling Acura of Austin	4801 S IH 35	auto	-97.756227193343 	30.207199837011
+National Charter Bus Austin	6448 East US 290 Hwy	transportation	-97.695738179505 	30.322236111335
+Frost Bank	6233 West William Cannon	banking	-97.865005046363 	30.23220736139
+Luby's/Fuddruckers	415 West Slaughter Lane	restaurant	-97.797432701349 	30.170308540583
+CDM Smith Inc.	9430 Research Boulevard	transportation	-97.744350949424 	30.384681850999
+Austin Subaru	8100 Burnet Road	auto	-97.730968512448 	30.359995187678
+Ultra Electronics	4101 Smith School Road	technology	-97.710928858126 	30.198659205778
+Lydian Dental	1601 South Lamar Boulevard	dentist	-97.764691236461 	30.251363861824
+Prosperity Bank	900 Congress Avenue	banking	-97.741914919105 	30.27114673275
+Wells Fargo Bank	1601 W 35th Street	banking	-97.75085056027 	30.30682578932

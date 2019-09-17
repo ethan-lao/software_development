@@ -1,0 +1,27 @@
+Maggie Louise Confections	true	3.0
+Freytag's Florist	true	5.0
+Strictly Pediatrics Surgery Center	true	-1.0
+Paramount and State Theatres	true	2.0
+Seton Healthcare Family	false	0.0
+The Sail & Ski Center	false	0.5
+Austin Executive Airport	true	5.0
+Hilltop Securities, Inc.	true	4.5
+Lammes Candies	true	-1.0
+Tiff's Treats	true	-1.0
+Moody National Bank	true	2.0
+Westin	true	2.0
+Texas Document Solutions	true	-1.0
+Thermo Fisher Scientific	false	5.0
+American Bank of Commerce	true	0.0
+Dell Children's Medical Center of Central Texas	true	0.5
+Tramex Travel	true	-1.0
+UBEO Business Services	true	-1.0
+St. David's Rehabilitation Hospital	false	5.0
+Central National Bank	true	-1.0
+Sprinkles	true	2.0
+Days Inn	false	0.0
+Panera Bread	true	-1.0
+Wenzel Spine Inc.	false	3.0
+UpCurve Cloud	true	3.0
+Wells Fargo Bank	true	3.0
+WP Engine	true	-1.0
